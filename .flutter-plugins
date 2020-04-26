@@ -1,0 +1,21 @@
+# This is a generated file; do not edit or check into version control.
+camera=/Users/bradley/.pub-cache/hosted/pub.dartlang.org/camera-0.5.7+4/
+cloud_firestore=/Users/bradley/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.13.5/
+cloud_firestore_web=/Users/bradley/.pub-cache/hosted/pub.dartlang.org/cloud_firestore_web-0.1.1+2/
+file_picker=/Users/bradley/.pub-cache/hosted/pub.dartlang.org/file_picker-1.7.0/
+firebase_analytics=/Users/bradley/.pub-cache/hosted/pub.dartlang.org/firebase_analytics-5.0.11/
+firebase_auth=/Users/bradley/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.15.5+3/
+firebase_auth_web=/Users/bradley/.pub-cache/hosted/pub.dartlang.org/firebase_auth_web-0.1.2/
+firebase_core=/Users/bradley/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.4.4+3/
+firebase_core_web=/Users/bradley/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-0.1.1+2/
+firebase_storage=/Users/bradley/.pub-cache/hosted/pub.dartlang.org/firebase_storage-3.1.5/
+flutter_plugin_android_lifecycle=/Users/bradley/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-1.0.7/
+flutter_plugin_pdf_viewer=/Users/bradley/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_pdf_viewer-1.0.7/
+image_picker=/Users/bradley/.pub-cache/hosted/pub.dartlang.org/image_picker-0.6.5+2/
+path_provider=/Users/bradley/.pub-cache/hosted/pub.dartlang.org/path_provider-1.6.7/
+path_provider_macos=/Users/bradley/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-0.0.4+1/
+permission_handler=/Users/bradley/.pub-cache/hosted/pub.dartlang.org/permission_handler-4.4.0+hotfix.4/
+shared_preferences=/Users/bradley/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.5.7/
+shared_preferences_macos=/Users/bradley/.pub-cache/hosted/pub.dartlang.org/shared_preferences_macos-0.0.1+7/
+shared_preferences_web=/Users/bradley/.pub-cache/hosted/pub.dartlang.org/shared_preferences_web-0.1.2+4/
+sqflite=/Users/bradley/.pub-cache/hosted/pub.dartlang.org/sqflite-1.3.0/
